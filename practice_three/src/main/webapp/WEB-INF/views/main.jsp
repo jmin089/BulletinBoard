@@ -30,7 +30,7 @@
 				<a href="#">조민진_Parctice</a>
 				<ul class="S_menu">
 					<li class="small_name"><a href="list">게시글(리스트)</a></li>
-					<li class="small_name"><a href="">게시글(카드형)</a></li>
+					<li class="small_name"><a href="list_card">게시글(카드형)</a></li>
 					<li class="small_name"><a href="">게시글(필드형)</a></li>
 					<li class="small_name"><a href="">게시글(API활용)</a></li>
 				</ul>

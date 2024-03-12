@@ -15,5 +15,10 @@ public class controller {
 	public String list() {
 		return "list";
 	}// list()
+	
+	@GetMapping("list_card")
+	public String list_card() {
+		return "list_card";
+	}// list_card()
 
 }
